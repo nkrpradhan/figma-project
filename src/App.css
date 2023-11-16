@@ -1,0 +1,5 @@
+@import "../build/variables.css";
+span {
+  background-color: var(--color-bgclr);
+  color: var(--color-fntclr);
+}
